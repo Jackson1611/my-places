@@ -1,4 +1,4 @@
-Map App
+#Map App
 This is a React Native app that allows users to search for locations on a map and save them to a list. It uses the MapQuest Geocoding API to convert the user's search query into latitude and longitude coordinates, and displays the location on a map using the react-native-maps library.
 
 Installation
